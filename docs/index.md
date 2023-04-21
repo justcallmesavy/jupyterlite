@@ -1,20 +1,3 @@
-<img src="_static/wordmark.svg" alt="JupyterLite" height="200" style="float:right;"/>
+key = 'friends'
 
----
-
-```{include} ../README.md
-
-```
-
-## Documentation Contents
-
-```{toctree}
-:maxdepth: 2
-
-quickstart/index
-howto/index
-reference/index
-migration
-contributing
-changelog
-```
+print(friends)
